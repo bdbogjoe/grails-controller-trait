@@ -10,6 +10,6 @@ trait ShowTrait {
 
     @Action
     def show(Long id){
-        render(view:'/show', model:[id:id])
+        render(view:'/edit', model:[id:id])
     }
 }
