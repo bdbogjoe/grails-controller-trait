@@ -1,6 +1,7 @@
 # grails-controller-trait
 
 Illustrate issue with controllers using traits for action having parameters
+https://github.com/grails/grails-core/issues/10560
 
 
 * start app
